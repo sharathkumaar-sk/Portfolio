@@ -1,4 +1,4 @@
-# Portfolio [![Icon Alt Text](resource/pngwings.com.png)](https://sharathkumaar-sk.github.io/Portfolio/)
+# Portfolio [![Icon Alt Text](resource/icon16X16.png)](https://sharathkumaar-sk.github.io/Portfolio/)
 
 Hi there! I'm Sharathkumar.sk, a student passionate about python development. This website serves as my virtual portfolio, showcasing my skills and projects built with python.
 
