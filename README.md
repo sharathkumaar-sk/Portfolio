@@ -1,4 +1,5 @@
-# Portfolio [Icon description][(https://www.pngwing.com/en/free-png-ynjry)](https://sharathkumaar-sk.github.io/Portfolio/)
+# Portfolio [Icon description](https://www.pngwing.com/en/free-png-ynjry) [(https://sharathkumaar-sk.github.io/Portfolio/)]
+
 Hi there! I'm Sharathkumar.sk, a student passionate about python development. This website serves as my virtual portfolio, showcasing my skills and projects built with python.
 
 ### Why explore my world?
