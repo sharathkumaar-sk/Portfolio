@@ -42,6 +42,7 @@ body::-webkit-scrollbar {
     position: fixed;
     bottom: 20px;
     right: 20px;
+    z-index: 9999;
     justify-content: center;
     cursor: pointer;
     border-radius: 50%;
@@ -807,7 +808,9 @@ a:hover {
     .skills {
     margin-left: 0; /* Remove left margin */
   }
-
+  .about {
+        padding-top: 50px;
+    }
   .skill {
     margin: 0 10px; /* Reduce margin between skills */
   }
