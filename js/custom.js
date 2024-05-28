@@ -77,3 +77,7 @@ function scrollToTop() {
                 behavior: 'smooth'
             });
         }
+
+function openLink(url) {
+        window.open(url, '_blank');
+}
